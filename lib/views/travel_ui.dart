@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_thai_hotline_app/views/about_ui.dart';
 import 'package:flutter_thai_hotline_app/models/data_list.dart';
-import 'package:flutter_thai_hotline_app/views/sub_b_home_ui.dart';
-import 'package:flutter_thai_hotline_app/views/sub_c_home_ui.dart';
-import 'package:flutter_thai_hotline_app/views/sub_d_home_ui.dart';
+import 'package:flutter_thai_hotline_app/views/emg_ui.dart';
+import 'package:flutter_thai_hotline_app/views/bank_ui.dart';
+import 'package:flutter_thai_hotline_app/views/pub_ui.dart';
 
 class SubAHomeUI extends StatefulWidget {
   SubAHomeUI({super.key});
