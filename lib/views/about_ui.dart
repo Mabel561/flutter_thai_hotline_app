@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AboutUI extends StatelessWidget {
-  AboutUI({super.key});
+  const AboutUI({super.key});
 
   @override
   Widget build(BuildContext context) {

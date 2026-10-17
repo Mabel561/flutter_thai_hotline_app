@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_thai_hotline_app/views/models/data_list.dart';
+import 'package:flutter_thai_hotline_app/models/data_list.dart';
 
 class SubDHomeUI extends StatelessWidget {
   SubDHomeUI({super.key});

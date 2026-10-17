@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_thai_hotline_app/views/about_ui.dart';
-import 'package:flutter_thai_hotline_app/views/models/data_list.dart';
+import 'package:flutter_thai_hotline_app/models/data_list.dart';
 import 'package:flutter_thai_hotline_app/views/sub_b_home_ui.dart';
 import 'package:flutter_thai_hotline_app/views/sub_c_home_ui.dart';
 import 'package:flutter_thai_hotline_app/views/sub_d_home_ui.dart';
@@ -33,7 +33,7 @@ class _SubAHomeUIState extends State<SubAHomeUI> {
               onPressed: () {
                 Navigator.of(context).push(
                   MaterialPageRoute<void>(
-                    builder: (context) => AboutUI(),
+                    builder: (context) => const AboutUI(),
                   ),
                 );
               },
