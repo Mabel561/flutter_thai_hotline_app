@@ -59,7 +59,7 @@ class AboutUI extends StatelessWidget {
               ),
               SizedBox(height: 22),
               Text(
-                'อีเมล : s6819410043@gmail.com',
+                'อีเมล : s6819410043@sau.ac.th',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 21, fontWeight: FontWeight.w600),
               ),
